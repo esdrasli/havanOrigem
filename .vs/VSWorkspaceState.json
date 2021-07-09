@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\hooks",
+    "\\src\\pages",
+    "\\src\\pages\\Origem",
+    "\\src\\pages\\Origem\\AlterarOrigem",
+    "\\src\\pages\\Origem\\ListarOrigem",
+    "\\src\\pages\\SignIn",
+    "\\src\\routes",
+    "\\src\\services"
+  ],
+  "SelectedNode": "\\src\\pages\\Origem\\ListarOrigem\\index.tsx",
+  "PreviewInSolutionExplorer": false
+}
